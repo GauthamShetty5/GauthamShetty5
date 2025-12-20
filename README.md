@@ -97,11 +97,14 @@ CGPA: 9.27 / 10
 
 ## 📜 Certifications
 
-- AWS Academy Graduate — Generative AI Foundations  
+- AWS Academy Graduate — Generative AI Foundations
+- AWS Certified AI Practitioner
+- n8n Course Level 1
+- n8n Course Level 2
 - Managing, Describing, and Analyzing Data  
 - Introduction to Business Analytics and Information Economics  
 - Artificial Intelligence for Project Managers  
-- What is the Metaverse?  
+- What is the Metaverse?
 
 ---
 
