@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Gautham Shetty</h1>
+<h1 align="center">Hi there 👋 I'm Gautam Shetty</h1>
 
 <p align="center">
   🎓 Management Information Systems @ Texas A&M University &nbsp;·&nbsp; 📍 College Station, Texas, USA
